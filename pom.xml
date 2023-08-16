@@ -44,7 +44,7 @@
 				</suiteXmlFiles>
 				
 				<systemPropertyVariables>
-					<browser>${Browser}</browser>
+					<browser>${BrowserVar}</browser>
 				</systemPropertyVariables>
 		
 			</configuration>
